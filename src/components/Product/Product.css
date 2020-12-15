@@ -1,0 +1,21 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding:15px 30px;
+}
+.product-des{
+    padding:15px;
+}
+.product-des h4{
+    color: #161616;
+    font-weight: bold;
+}
+.cart-btn{
+    background-color: goldenrod;
+    color: #ffff;
+    padding:6px 16px;
+    border:none;
+    font-size:20px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
